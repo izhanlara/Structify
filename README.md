@@ -1,60 +1,94 @@
 # Structify
+<p align="center">
+  <img src="public/logos/logo.png" width="180" alt="Structify Logo">
+</p>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.0.
+<div align="center">
 
-## Development server
+### Documentation should be consistent.
 
-To start a local development server, run:
+An open-source project focused on helping teams organize, standardize, and maintain high-quality documentation.
 
-```bash
-ng serve
+</div>
+
+---
+
+## About
+
+Structify is an open-source project dedicated to improving the way documentation is structured and maintained.
+
+As projects grow, documentation often becomes fragmented, inconsistent, and difficult to navigate. Structify aims to solve this problem by providing tools that help create, validate, and standardize documentation across different platforms and workflows.
+
+This repository contains the source code for the official Structify website, which serves as the public entry point for the project.
+
+---
+
+## Purpose of the Website
+
+The website acts as the central hub for the Structify ecosystem.
+
+It provides:
+
+* Project information
+* Documentation access
+* Roadmap updates
+* Release announcements
+* Download links
+* Open-source transparency
+* Community resources
+
+---
+
+## Vision
+
+Structify's long-term goal is to become a universal documentation standardization platform.
+
+The project focuses on:
+
+* Consistency
+* Maintainability
+* Transparency
+* Local-first principles
+* Open-source development
+
+Rather than generating documentation, Structify aims to help teams maintain clear and structured documentation standards.
+
+---
+
+## Documentation
+
+Technical documentation is maintained separately from this README.
+
+For detailed documentation, please refer to:
+
+```text
+/docs
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## Roadmap
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+The project is currently in active development.
 
-```bash
-ng generate component component-name
-```
+Future milestones include:
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+* Documentation platform integrations
+* Template management
+* Validation engine
+* Automation workflows
+* Intelligent document analysis
 
-```bash
-ng generate --help
-```
+---
 
-## Building
+## Open Source
 
-To build the project run:
+Structify is developed as an open-source project with transparency as a core principle.
 
-```bash
-ng build
-```
+The source code, development process, roadmap, and project decisions are publicly available.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+## License
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-# Structify
+This project is licensed under the terms of the license included in this repository.
